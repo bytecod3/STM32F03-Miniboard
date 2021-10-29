@@ -2,11 +2,10 @@
 Minimal STM32F03 Board
 
 ### Top View
-!(top.png)[Top view]
-
+!(Top view)[top.png]
 ### Bottom View
-!(bottom.png)[Bottom view]
+!(Bottom view)[bottom.png]
 
 ### Side View
-!(side.png)[Side view]
+!((Side View)[side.png]
 
